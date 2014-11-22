@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/collideHandler.js">
     <Files>
       <File FileName="Assets/Scripts/accInput.js" Line="35" Column="31" />
-      <File FileName="Assets/Scripts/collideHandler.js" Line="24" Column="2" />
+      <File FileName="Assets/Scripts/collideHandler.js" Line="19" Column="4" />
       <File FileName="../Desktop/HadiTed/Assets/Scripts/offensive.js" Line="26" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
