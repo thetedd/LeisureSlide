@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/collideHandler.js">
     <Files>
-      <File FileName="Assets/Scripts/accInput.js" Line="35" Column="31" />
-      <File FileName="Assets/Scripts/collideHandler.js" Line="19" Column="4" />
-      <File FileName="../Desktop/HadiTed/Assets/Scripts/offensive.js" Line="26" Column="18" />
+      <File FileName="Assets/Scripts/accInput.js" Line="12" Column="20" />
+      <File FileName="Assets/Scripts/collideHandler.js" Line="42" Column="50" />
+      <File FileName="../Desktop/HadiTed/Assets/Scripts/PowerUpBehavior.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
