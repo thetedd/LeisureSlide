@@ -4,6 +4,8 @@
 var why : Vector3;
 var toMove : Vector3;
 
+
+
 function Start () {
 
 }
@@ -11,8 +13,8 @@ function Start () {
 
 
 function FixedUpdate () {
-	var forceFactorX : int = 18;
-	var forceFactorY : int = 25;
+	var forceFactorX : int = 18; //18
+	var forceFactorY : int = 30; //25
 	
 	
 
@@ -26,7 +28,13 @@ function FixedUpdate () {
 }
 
 
-function OnGUI () {
-	GUI.Box (Rect (10,10,100,90), toMove.ToString());
-}
 
+
+/*
+function OnCollisionEnter (col : Collision) {
+	target = col.gameObject.name;
+	/*if(col.gameObject.name == "Cylinder") {
+		Destroy(col.gameObject);
+		
+	}*/
+//}*/
